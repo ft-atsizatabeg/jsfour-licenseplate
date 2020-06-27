@@ -1,2 +1,2 @@
 # jsfour-licenseplate
- jsfour'a ait araç plaka değiştirme eklentisidir. Türkçeleştirilmiş, mythic_notify'e entegre edilmiştir.
+ jsfour'a ait araç plaka değiştirme eklentisidir. Türkçeleştirilmiş ve mythic_notify'e entegre edilmiştir.
